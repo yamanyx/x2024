@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)\.m3u$ $1.php
